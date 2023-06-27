@@ -1,5 +1,9 @@
+#blogpost settings
 theme: minima
 author: zlrkw11 - Ray Zhao
 description: personal 
+
+markdown: kramdown
+email: ray040406@gmail.com
 
 
