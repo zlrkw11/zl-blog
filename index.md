@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: 什么都被管 什么都看不惯 什么都没力量推翻 学习生存之道又不安
 ---
 
